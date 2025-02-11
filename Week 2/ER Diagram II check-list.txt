@@ -1,0 +1,13 @@
+*The Game Company has one or more Projects.
+*Each project is assigned a unique identifier, a name, a launch or ship date, and a State.
+*The Game Company hires employees.
+*Each employee has a unique identifier, a first name, the last name, and a Job_ID which leads to the identification of their job role.
+*Each employee is assigned to one and only one project.
+
+Each Project State has a unique identifier and a description.
+
+*Game programmers are a Job role.
+*Game artists are Job role.
+*Game designers are Job role.
+*Producers are a Job role.
+*Testers are an employee role.
