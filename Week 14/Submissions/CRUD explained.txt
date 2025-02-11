@@ -1,0 +1,4 @@
+C (create): to create or add data into a table/database
+R(read): to retrieve data from a database
+U(update): to edit and modify data within a database
+D(delete): to erase data from a database

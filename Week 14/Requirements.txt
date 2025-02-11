@@ -1,0 +1,9 @@
+*All tables must make sense and support your database.
+*All the columns in each table must make sense and support the table.
+*All the data types in each column must make sense.
+*Each table in the database must be normalized to the third normal form (or explain why it makes sense to not normalize the table).
+*Using SQL Insert statements, add more data to each table, at least 5 rows per table.
+*Execute all four CRUD operations on your database using the correct SQL commands and show the results. CRUD ResourceLinks to an external site.
+*Write a brief description of how you will continue to use your database after this course.
+*Create an ERD diagram of your database. (If you already created your tables, Reverse Engineer the database to create the ERD.)
+*If using a cloud database (i.e., the one I provided to you) explain CRUD with a sentence for each letter. 
